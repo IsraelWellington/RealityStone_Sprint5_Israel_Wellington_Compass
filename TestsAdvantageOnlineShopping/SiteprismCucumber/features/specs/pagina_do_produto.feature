@@ -27,7 +27,3 @@ Funcionalidade: Busca
         Quando aumentar a quantidade do produto
         E adicionar o produto ao carrinho
         Então o produto deverá ser adicionado ao carrinho com a quantidade
-
-    @add_product_to_cart_pdp
-    Cenário: Adicionar produto ao carrinho pela PDP
-        Quando adicionar o produto ao carrinho
